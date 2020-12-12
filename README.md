@@ -1,0 +1,1 @@
+A cat photo generator built to practice using fetch() and API.
